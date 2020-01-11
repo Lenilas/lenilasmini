@@ -5,6 +5,7 @@
     "hobbies":["reading","coding","listening korean music"],
     "is_married":false,
     "list_school":{
+        "school":"smk gri 2 cianjur",
         "year_in":"2011",
         "year_out":"2014",
         "major": null},

@@ -1,2 +1,2 @@
-var howMany = strings.Count("arka", "a")
-fmt.Println(howMany)
+var howMany = strings.Count("ethan hunt", "t")
+fmt.Println(howMany) // 2

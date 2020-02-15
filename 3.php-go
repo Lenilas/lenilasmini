@@ -1,0 +1,2 @@
+var howMany = strings.Count("arka", "a")
+fmt.Println(howMany)
